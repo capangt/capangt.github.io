@@ -1,21 +1,21 @@
 body {
-  background-color: #F4E1D2; /* Couleur de fond beige */
-  color: #2C3E50; /* Couleur du texte bleu foncé */
-  font-family: Arial, sans-serif; /* Police par défaut */
+  background-color: #F4E1D2; 
+  color: #2C3E50; 
+  font-family: Arial, sans-serif; 
 }
 
 h1 {
-  font-family: 'Arial Black', sans-serif; /* Police en gras */
-  color: #8B4513; /* Couleur brun foncé */
+  font-family: 'Arial Black', sans-serif; 
+  color: #8B4513; 
 }
 
 p {
-  line-height: 1.5; /* Hauteur de ligne de 1.5 */
-  margin-bottom: 20px; /* Marge en bas de paragraphe */
+  line-height: 1.5; 
+  margin-bottom: 20px; 
 }
 
 a {
-  color: #8B4513; /* Couleur brun foncé pour les liens */
-  text-decoration: none; /* Pas de soulignement pour les liens */
+  color: #8B4513; 
+  text-decoration: none; 
 }
 
